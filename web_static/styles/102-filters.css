@@ -44,11 +44,15 @@
 .locations h3, section.filters .amenities h3 {
     font-weight: 600;
     text-align: left;
-    margin: 0 0 2px 20px;
+    margin: 0;
+    padding: 17px 30px 0 30px;
 }
 
 .locations h4, section.filters .amenities h4 {
-    margin: 2px 0 0 20px;
+    margin: 0;
+    text-align: left;
+    font-weight: 400;
+    padding-left: 30px;
 }
 
 ul.popover {
@@ -66,6 +70,8 @@ ul.popover {
 
 .popover h2 {
     font-size: 16px;
+    margin: 0;
+    padding: 10px 0px 0px 30px;
 }
 li {
 	list-style-type: none;
